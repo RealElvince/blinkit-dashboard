@@ -1,5 +1,5 @@
 ipython-sql
-sqlachemy
+sqlalchemy
 pymysql
 python-dotenv
 prettytable
