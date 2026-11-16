@@ -1,0 +1,5 @@
+ipython-sql
+sqlachemy
+pymysql
+python-dotenv
+prettytable
