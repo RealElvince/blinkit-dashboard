@@ -1,0 +1,1 @@
+Average_Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
