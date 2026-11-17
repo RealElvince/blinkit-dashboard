@@ -1,0 +1,6 @@
+Metrics = {
+    ("TOTALSALES", NAMEOF('BlinkIT Grocery Data'[Total_Sales]), 0),
+    ("AVGSALES", NAMEOF('BlinkIT Grocery Data'[Average_Sales]), 1),
+    ("NO OF ITEMS", NAMEOF('BlinkIT Grocery Data'[Number_Of_Items]), 2),
+    ("AVG RATING", NAMEOF('BlinkIT Grocery Data'[Average_Rating]), 3)
+}
